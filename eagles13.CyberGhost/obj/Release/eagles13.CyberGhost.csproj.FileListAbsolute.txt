@@ -1,0 +1,5 @@
+D:\Users\Joshua\Dropbox\Projects\C#\CyberGhosty\eagles13.CyberGhost\bin\Release\eagles13.CyberGhost.dll
+D:\Users\Joshua\Dropbox\Projects\C#\CyberGhosty\eagles13.CyberGhost\bin\Release\eagles13.CyberGhost.pdb
+D:\Users\Joshua\Dropbox\Projects\C#\CyberGhosty\eagles13.CyberGhost\obj\Release\eagles13.CyberGhost.csprojResolveAssemblyReference.cache
+D:\Users\Joshua\Dropbox\Projects\C#\CyberGhosty\eagles13.CyberGhost\obj\Release\eagles13.CyberGhost.dll
+D:\Users\Joshua\Dropbox\Projects\C#\CyberGhosty\eagles13.CyberGhost\obj\Release\eagles13.CyberGhost.pdb
